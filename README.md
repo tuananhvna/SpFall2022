@@ -1,2 +1,2 @@
 # SpFall2022
-Project from the course Server Programming Fall 2022
+Projects from the course Server Programming Fall 2022
